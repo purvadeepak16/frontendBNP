@@ -1,0 +1,6 @@
+{
+  "name": "IMPART — BNP Paribas Regulatory Compliance Engine",
+  "description": "Impact Mapping and Preliminary Assessment for Regulatory Text across ASIC, EMIR, UK EMIR, MAS, and HKMA jurisdictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
